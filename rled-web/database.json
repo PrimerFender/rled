@@ -1,0 +1,16 @@
+{
+    "clients": {
+        "1": {
+            "name": "Craig",
+            "device-id": "abc123",
+            "led-status": "off",
+            "last-checkin": "1pm"
+        },
+        "2": {
+            "name": "Chris",
+            "device-id": "xyz098",
+            "led-status": "flashing",
+            "last-checkin": "2pm"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-console-app",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp",
+  "main": "app.js",
+  "author": {
+    "name": "Craig Spargo"
+  },
+  "dependencies": {
+    "firebase": "^7.21.0",
+    "serialport": "^9.0.1"
+  }
+}
